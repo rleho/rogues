@@ -1,0 +1,171 @@
+Városállamok / Fiatal királyságok
+    Társadalom
+        Vallás
+            A legtöbben szabad vallásgyakorlás van
+            KELETI PANTHEON
+        Kormányzat
+            Királyságok
+                Határvárad
+                    Katonaállam
+                        Falanx gyalogság
+                        Könnyűvértű lovasság
+                        Sok íjász
+                        Ostromtechnikák ismerete
+                        Tudománynak tekintik a hadviselést
+                            egyetemen is tanítják
+                        A fővezér a király
+                    Erős kezű, központosított hatalom
+                    Tiltott a mágia használata
+                        Csak a hatalmon levők használhatják
+                        Kiűzetés jár azért, ha kiderül valakiről, hogy tud varázsolni
+                            Csak ha nem használta
+                        Mágia használata halállal büntetendő
+                    Szabad vallásgyakorlás
+                        "Keleti pantheon"
+                            legnagyobb vallás
+                            többistenhit
+                        Istencsászár hite
+                            több ezer hívő
+                            kissé máshogy magyarázzák a dogmákat
+                        Szellemvilág
+                            Sok a barbár lakos
+                            A második legnagyobb vallás
+                        Dzsa'rebeket, Bennszülötteket NEM ismerik
+                    Nagyon jó úthálózat 
+                    ~200000 km²
+                        hegyes vidék - bányászat jelentős
+                        kevés a mezőgazdasági terület
+                    Fővárosa Nioshumba
+                        100000 lakos
+                        4 körös város
+                            Felsővár
+                                Csak a leggazdagabb nemesek
+                                Néhány főpap
+                                A fővarázsló tornya
+                                Zárt városrész, belép csak engedéllyel
+                            Belsővár
+                                Kerskedők
+                                Közép és kisnemesek
+                                Katonák, laktanyák
+                                Jobb fogadók
+                                Sok templom, papság
+                                Iskolák
+                            Külső város
+                                Iparosok
+                                Kézművesek
+                                Szegényebb kereskedők
+                                Sok templom, papság
+                            Erődrendszer
+                                "a fal nélküli város"
+                                szegények
+                                fuvarozók
+                                mezőgazdasági munkások
+                    tatományurak (7)
+                        3 báró
+                        2 herceg
+                        1 admirális - a tengeri seregeket vezeti
+                        1 hadvezér - a szárazföldi seregeket vezeti
+                Tengerfokvárad
+                    kereskedőállam
+                        a pénz az igazi úr
+                        a szegényeket senkiknek nézik
+                        legfőbb törvény: a királygyilkosságon kívül mindent ki lehet váltani megfelelő méretű bírsággal
+                        nagyon sok kopár hegy van - a flotta elfogyasztotta az erdőket
+                        mezőgazdaság
+                            rideg állattartás
+                            teraszos földművelés
+                            fejlett erdőgazdálkodás
+                    legszorosabb kötődés a Birodalomhoz
+                    ~180000 km²
+                    21 tartomány
+                        vezetői a kereskedőhercegek
+                        szövevényes megállapodások
+                    minőségi úthálózat
+                    inkább megvesztegetéssel, intrikával mint fegyverekkel
+                    zsoldos sereg
+                    óriási kereskedelmi flotta, nagy hadiflotta
+                    Fővárosa - Roringan
+                        mintha párezer kereskedelmi lerakatot egymás mellé dobáltak volna, olyan
+                        a törvényház az egyedüli fontos épület
+                        a nagyhatalmú kereskedők nem itt laknak
+                        a király sem itt lakik
+                        nyílt titok: a király udvari mágusa egy birodalomból származó nagyhatalmú !elda!
+                    Szabad vallásgyakorlás
+                        Istencsászár hite 35%
+                        "Keleti pantheon" 48%
+                    Szabad mágiahasználat
+                        a törvények betartása mellett
+                        túlzott mágiahasználat pénzbírsághoz vezet
+                        érdekes adónem - mágiaűzési adó
+                Kövesvárad
+                    teljesen központosított hatalom
+                    bányászállam
+                        sok a drágakő
+                        arany
+                        vas
+                        réz
+                        ólom
+                    ~48000 km²
+                        nagy része lepusztult röghegység
+                            erdők
+                        a völgyekben mezőgazdaság
+                        havasi legelők
+                    elfogadható úthálózat
+                    a terepviszonyok nehezek, ellenség nagy sereggel nem tudna támadni
+                    zsoldos sereg
+                        elit csapatok - hegyivadászok
+                        helyőrségek
+                    !NINCS! szabad vallásgyakorlás
+                        "Keleti pantheon" 100%
+                        egyébb vallást hallállal jutalmaznak
+                            ha kiderül
+                    !NINCS! szabad mágiahasználat
+                        csak a király megbízásából
+                        egyébb varázslókat halállal bünetnek
+                            ha kiderül
+                    Fővárosa - Khalirthard
+                        Föld fölötti és alati erődrendszer
+                        Óriás kohók
+                            A városállamok legjobb kovácsai
+                        Az egyetlen zátonymentes kikötő
+                        A legfontosabb kereskedelmi központ
+                        Mindent és mindenkit ellenőriznek a király katonái
+                Vízvárad
+                    mocsarak lecsapolása után jött létre a nagyrésze
+                        egy szürkevári gazdag polgár csináltatta
+                            kinevezte magát királynak
+                    legjelentéktelenebb királyság
+                    bő termésű mezőgazdaság
+                    ~31000 km²
+                    Fővárosa - Lathanpolisz
+                        Lathan a királyi család
+                    Kissebb zsoldossareg, leginkább rendfenntartásra
+                    Erős szövetségi rendszer Szürkevárral
+                    Szabad mágiahasználat
+                        adóztatva
+                        regisztrálni kell
+                    Szabad vallásgyakorlás
+                        "Keleti pantheon" 78%
+            Demokráciák
+                Füvesvár
+                Lazacpart
+                Szürkevár
+            Teokráciák
+                Dombkapu
+                Harmatvár
+                Gyöngyvárad
+            Kalóz - Hercegségek
+                Sziklavár
+                Magosvár
+            Valamilyen megállapodás / szerződés van a Birodalommal
+        ember (teljesen átlagos)
+        Történelem
+        Művészetek
+        Néprajz
+        Nyelv
+    Földrajz
+        Civilizált vidék
+        Van úthálózat
+        Van kereskedelem
+    Katonai erő
+        Erős flották, kevésbé erős szárazföldi seregek
