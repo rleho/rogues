@@ -1,134 +1,134 @@
-# A Barbárok
+# A BarbÃ¡rok
 
-A RogueS alapvetõen az Elda Birodalomra épített játék, így a Birodalom szemszögébõl mutatjuk be a barbárokat. A barbárok ilyenformán nem nevezhetõ egy népcsoport vagy egy területi egységen élõ népek összefoglaló nevének, mivel a Birodalom területén kívül élõ népeket közös jelzõvel illetik, õk a Barbárok.
+A RogueS alapvetÅ‘en az Elda Birodalomra Ã©pÃ­tett jÃ¡tÃ©k, Ã­gy a Birodalom szemszÃ¶gÃ©bÅ‘l mutatjuk be a barbÃ¡rokat. A barbÃ¡rok ilyenformÃ¡n nem nevezhetÅ‘ egy nÃ©pcsoport vagy egy terÃ¼leti egysÃ©gen Ã©lÅ‘ nÃ©pek Ã¶sszefoglalÃ³ nevÃ©nek, mivel a Birodalom terÃ¼letÃ©n kÃ­vÃ¼l Ã©lÅ‘ nÃ©peket kÃ¶zÃ¶s jelzÅ‘vel illetik, Å‘k a BarbÃ¡rok.
 
-Így megkülönböztethetünk Északi Barbár Törzseket, laza törzsközösségben élnek, és így harcolnak az elemekkel vagy a Birodalommal az északi tundrákon, tajgákon. Teljesen más fajta életmódja van a Városállamok területén élõ embereknek, igazából annyi a hasonlóság az Északi Barbárokkal, hogy õk sem az Istencsászárt imádják, bár furcsaságként meg kell említeni, a városállamok nagy részében szabad vallásgyakorlás van, és van olyan is, ahol a legnagyobb tábora az Istencsászár hitének van. Van még egy teljesen különálló rész, ami a Dzsa'reb Királyságba ékelõdik be, itt nomád pásztorok tengetik szegényes életüket, a tengerparton néhány városállam található.
+Ãgy megkÃ¼lÃ¶nbÃ¶ztethetÃ¼nk Ã‰szaki BarbÃ¡r TÃ¶rzseket, laza tÃ¶rzskÃ¶zÃ¶ssÃ©gben Ã©lnek, Ã©s Ã­gy harcolnak az elemekkel vagy a Birodalommal az Ã©szaki tundrÃ¡kon, tajgÃ¡kon. Teljesen mÃ¡s fajta Ã©letmÃ³dja van a VÃ¡rosÃ¡llamok terÃ¼letÃ©n Ã©lÅ‘ embereknek, igazÃ¡bÃ³l annyi a hasonlÃ³sÃ¡g az Ã‰szaki BarbÃ¡rokkal, hogy Å‘k sem az IstencsÃ¡szÃ¡rt imÃ¡djÃ¡k, bÃ¡r furcsasÃ¡gkÃ©nt meg kell emlÃ­teni, a vÃ¡rosÃ¡llamok nagy rÃ©szÃ©ben szabad vallÃ¡sgyakorlÃ¡s van, Ã©s van olyan is, ahol a legnagyobb tÃ¡bora az IstencsÃ¡szÃ¡r hitÃ©nek van. Van mÃ©g egy teljesen kÃ¼lÃ¶nÃ¡llÃ³ rÃ©sz, ami a Dzsa'reb KirÃ¡lysÃ¡gba Ã©kelÅ‘dik be, itt nomÃ¡d pÃ¡sztorok tengetik szegÃ©nyes Ã©letÃ¼ket, a tengerparton nÃ©hÃ¡ny vÃ¡rosÃ¡llam talÃ¡lhatÃ³.
 
-### A Barbár vidékek térképe
+### A BarbÃ¡r vidÃ©kek tÃ©rkÃ©pe
 
-<img src="/kepek/barbarok.jpg" alt="A Barbár vidékek térképe"  align="right">
+<img src="/kepek/barbarok.jpg" alt="A BarbÃ¡r vidÃ©kek tÃ©rkÃ©pe"  align="right">
 
-1. Jeges Vizek törzs
-2. Véres Kéz törzs
-3. Üvöltõ Szelek törzs
-4. A Szent Hely Védõi törzs
-5. Vérszomjasak törzs
-6. Fekete Medve törzs
-7. Földanya törzs
-8. Vizek Lovasa törzs
-9. Vasöklök törzs
-10. Mourmonn törzs
-11. Sólyomasszony törzs
-12. Fekete Vipera törzs
-13. Erdõ Szelleme törzs
-14. Figyelõk törzs
-15. Határvárad
-16. Füvesvár
-17. Tengerfokvárad
+1. Jeges Vizek tÃ¶rzs
+2. VÃ©res KÃ©z tÃ¶rzs
+3. ÃœvÃ¶ltÅ‘ Szelek tÃ¶rzs
+4. A Szent Hely VÃ©dÅ‘i tÃ¶rzs
+5. VÃ©rszomjasak tÃ¶rzs
+6. Fekete Medve tÃ¶rzs
+7. FÃ¶ldanya tÃ¶rzs
+8. Vizek Lovasa tÃ¶rzs
+9. VasÃ¶klÃ¶k tÃ¶rzs
+10. Mourmonn tÃ¶rzs
+11. SÃ³lyomasszony tÃ¶rzs
+12. Fekete Vipera tÃ¶rzs
+13. ErdÅ‘ Szelleme tÃ¶rzs
+14. FigyelÅ‘k tÃ¶rzs
+15. HatÃ¡rvÃ¡rad
+16. FÃ¼vesvÃ¡r
+17. TengerfokvÃ¡rad
 18. Dombkapu
-19. Harmatvár
-20. Gyöngyvárad
-21. Kövesvárad
-22. Szürkevár
-23. Vízvárad
+19. HarmatvÃ¡r
+20. GyÃ¶ngyvÃ¡rad
+21. KÃ¶vesvÃ¡rad
+22. SzÃ¼rkevÃ¡r
+23. VÃ­zvÃ¡rad
 24. Lazacpart
-25. Sziklavár
-26. Magosvár
-27. Nomádok (Dzsa'reb szökött szolgák, pásztorok, bujdosók) és kisebb városok.
+25. SziklavÃ¡r
+26. MagosvÃ¡r
+27. NomÃ¡dok (Dzsa'reb szÃ¶kÃ¶tt szolgÃ¡k, pÃ¡sztorok, bujdosÃ³k) Ã©s kisebb vÃ¡rosok.
 
-## Az Északi Barbár Törzsek
+## Az Ã‰szaki BarbÃ¡r TÃ¶rzsek
 
-### A Jeges Vizek törzs
-Északon, az örök jég és hó birodalmában is élnek emberek, egy nagy törzsközösségben, a külvilág felé õk a Jeges Vizek törzs. Az itt élõk leginkább halászattal és vadászattal foglalkoznak, senki sem ért a földmûveléshez, ami természetesen érthetõ, hiszen egy zsebkendõnyi föld sincs, amit megmûvelhetnének. A zord idõjárás és a nehéz körülmények nem tántorították el az embereket ettõl a tájtól. Egy törzs, egy falu, egy család, így jellemezhetnénk az itt élõket. A Jeges Vizek egy törzsközösség, több mint 150 különálló törzsbõl áll, ám mindegyik törzs csak egy faluban él, és egyazon család tagjai alkotják. Több tíz kilométerek vannak a falvak között, így biztosítva a vadászterületet. A törzsközösségen belül szinte sosincsenek ellentétek, de központosított hatalomról sem beszélhetünk. Külsõ támadás sem fenyegeti a törzseket, hiszen melyik nép lenne olyan õrült, hogy háborúzzon egy jeges pusztaságért, ahol a nap minden percében meg kell küzdeni az életbemaradásért. Talán a legbékésebb barbár törzsek ezek, de a legelmaradottabbak is. Csak csonteszközöket használnak, a fémeket nem ismerik, vagy ha ismerik is, hát nem használják. Kereskedni nem szoktak, nincs is miért, a pénz fogalmát sem ismerik. A legészakibbak egész évben hókunyhóban laknak, a délebbiek között, ha másnak nem is, de a vezetõnek fa kunyhója van.
+### A Jeges Vizek tÃ¶rzs
+Ã‰szakon, az Ã¶rÃ¶k jÃ©g Ã©s hÃ³ birodalmÃ¡ban is Ã©lnek emberek, egy nagy tÃ¶rzskÃ¶zÃ¶ssÃ©gben, a kÃ¼lvilÃ¡g felÃ© Å‘k a Jeges Vizek tÃ¶rzs. Az itt Ã©lÅ‘k leginkÃ¡bb halÃ¡szattal Ã©s vadÃ¡szattal foglalkoznak, senki sem Ã©rt a fÃ¶ldmÅ±velÃ©shez, ami termÃ©szetesen Ã©rthetÅ‘, hiszen egy zsebkendÅ‘nyi fÃ¶ld sincs, amit megmÅ±velhetnÃ©nek. A zord idÅ‘jÃ¡rÃ¡s Ã©s a nehÃ©z kÃ¶rÃ¼lmÃ©nyek nem tÃ¡ntorÃ­tottÃ¡k el az embereket ettÅ‘l a tÃ¡jtÃ³l. Egy tÃ¶rzs, egy falu, egy csalÃ¡d, Ã­gy jellemezhetnÃ©nk az itt Ã©lÅ‘ket. A Jeges Vizek egy tÃ¶rzskÃ¶zÃ¶ssÃ©g, tÃ¶bb mint 150 kÃ¼lÃ¶nÃ¡llÃ³ tÃ¶rzsbÅ‘l Ã¡ll, Ã¡m mindegyik tÃ¶rzs csak egy faluban Ã©l, Ã©s egyazon csalÃ¡d tagjai alkotjÃ¡k. TÃ¶bb tÃ­z kilomÃ©terek vannak a falvak kÃ¶zÃ¶tt, Ã­gy biztosÃ­tva a vadÃ¡szterÃ¼letet. A tÃ¶rzskÃ¶zÃ¶ssÃ©gen belÃ¼l szinte sosincsenek ellentÃ©tek, de kÃ¶zpontosÃ­tott hatalomrÃ³l sem beszÃ©lhetÃ¼nk. KÃ¼lsÅ‘ tÃ¡madÃ¡s sem fenyegeti a tÃ¶rzseket, hiszen melyik nÃ©p lenne olyan Å‘rÃ¼lt, hogy hÃ¡borÃºzzon egy jeges pusztasÃ¡gÃ©rt, ahol a nap minden percÃ©ben meg kell kÃ¼zdeni az Ã©letbemaradÃ¡sÃ©rt. TalÃ¡n a legbÃ©kÃ©sebb barbÃ¡r tÃ¶rzsek ezek, de a legelmaradottabbak is. Csak csonteszkÃ¶zÃ¶ket hasznÃ¡lnak, a fÃ©meket nem ismerik, vagy ha ismerik is, hÃ¡t nem hasznÃ¡ljÃ¡k. Kereskedni nem szoktak, nincs is miÃ©rt, a pÃ©nz fogalmÃ¡t sem ismerik. A legÃ©szakibbak egÃ©sz Ã©vben hÃ³kunyhÃ³ban laknak, a dÃ©lebbiek kÃ¶zÃ¶tt, ha mÃ¡snak nem is, de a vezetÅ‘nek fa kunyhÃ³ja van.
 
-Közlekedés: Gyalog, hótalppal, síléccel, kutyaszánnal.
+KÃ¶zlekedÃ©s: Gyalog, hÃ³talppal, sÃ­lÃ©ccel, kutyaszÃ¡nnal.
 
-Konyha: Csak hús alapú, vadászat és halászat, sokszor nyersen elfogyasztva, fûszerezés nélkül.
+Konyha: Csak hÃºs alapÃº, vadÃ¡szat Ã©s halÃ¡szat, sokszor nyersen elfogyasztva, fÅ±szerezÃ©s nÃ©lkÃ¼l.
 
-Hadsereg: Nincs, illetve egy-egy falunak vannak vadászai, akik hadseregként funkcionálnak, ebbõl kiindulva minden férfi katona is egyben.
+Hadsereg: Nincs, illetve egy-egy falunak vannak vadÃ¡szai, akik hadseregkÃ©nt funkcionÃ¡lnak, ebbÅ‘l kiindulva minden fÃ©rfi katona is egyben.
 
-### A Véres Kéz törzs
-Nomád pásztorkodást, és vadászatot folytató törzsrõl van szó, de nem emiatt híresültek el - az egyik legvadabb barbár törzs. Sámán uralom alatt élnek, tehát a hadi fõnöknek igazából nincs szava, csak a sámánnak, akik pedig hajlamosak legalább havonta egyszer egy Birodalmi túrára biztatni a harcosokat. Pusztító, fosztogató hordáik pedig nevükhöz méltóan, elég véres munkát szoktak végezni. Ellenük vonult fel a legtöbbször a Birodalmi Légió. A Véres Kéz törzs sámánjai azt tanítják, hogy a Birodalom lakossága elfordult a természettõl, elfordultak a szellemvilágtól, így nincs helyük ezen a földön, és a szellemek meg fogják hálálni a harcosoknak, ha végre elûzik, vagy még inkább megölik mindet. A legjobb lovas íjászaik nekik vannak, különleges csontból készült visszacsapó íjat használnak (Kezd: +5, Tám: +1, Sebz: 2k6+7, Löv: 1/2, Táv: 150m, Súly: 1 kg), méltán híres, és talán a legveszélyesebb távolsági kézifegyver. Legendákat mesélnek a lovas íjászokról, hogy vágtában, 50 méterrõl, szinte mindig betalálnak a szembe vágtázó sisakrostélyán, ami nem kis teljesítmény. Egy erõdvárosuk van, földsánccal, és kihegyezett karókkal körbevéve, nevezhetnénk fõvárosnak is. Mivel a föld szinte mindig fagyos, így a földsánc van olyan hatásos, mint ha kõbõl rakták volna. De nagyon sok lovashorda vándorol, állatokat terelgetve, sátrakban lakva szerte a törzs területén. A törzs létszámát 50 ezer körülire becsülik a Birodalomban, legnagyobb betörésükkor kicsivel több, mint tízezer lovas barbár támadt, sok-sok sámán segítségével.
+### A VÃ©res KÃ©z tÃ¶rzs
+NomÃ¡d pÃ¡sztorkodÃ¡st, Ã©s vadÃ¡szatot folytatÃ³ tÃ¶rzsrÅ‘l van szÃ³, de nem emiatt hÃ­resÃ¼ltek el - az egyik legvadabb barbÃ¡r tÃ¶rzs. SÃ¡mÃ¡n uralom alatt Ã©lnek, tehÃ¡t a hadi fÅ‘nÃ¶knek igazÃ¡bÃ³l nincs szava, csak a sÃ¡mÃ¡nnak, akik pedig hajlamosak legalÃ¡bb havonta egyszer egy Birodalmi tÃºrÃ¡ra biztatni a harcosokat. PusztÃ­tÃ³, fosztogatÃ³ hordÃ¡ik pedig nevÃ¼khÃ¶z mÃ©ltÃ³an, elÃ©g vÃ©res munkÃ¡t szoktak vÃ©gezni. EllenÃ¼k vonult fel a legtÃ¶bbszÃ¶r a Birodalmi LÃ©giÃ³. A VÃ©res KÃ©z tÃ¶rzs sÃ¡mÃ¡njai azt tanÃ­tjÃ¡k, hogy a Birodalom lakossÃ¡ga elfordult a termÃ©szettÅ‘l, elfordultak a szellemvilÃ¡gtÃ³l, Ã­gy nincs helyÃ¼k ezen a fÃ¶ldÃ¶n, Ã©s a szellemek meg fogjÃ¡k hÃ¡lÃ¡lni a harcosoknak, ha vÃ©gre elÅ±zik, vagy mÃ©g inkÃ¡bb megÃ¶lik mindet. A legjobb lovas Ã­jÃ¡szaik nekik vannak, kÃ¼lÃ¶nleges csontbÃ³l kÃ©szÃ¼lt visszacsapÃ³ Ã­jat hasznÃ¡lnak (Kezd: +5, TÃ¡m: +1, Sebz: 2k6+7, LÃ¶v: 1/2, TÃ¡v: 150m, SÃºly: 1 kg), mÃ©ltÃ¡n hÃ­res, Ã©s talÃ¡n a legveszÃ©lyesebb tÃ¡volsÃ¡gi kÃ©zifegyver. LegendÃ¡kat mesÃ©lnek a lovas Ã­jÃ¡szokrÃ³l, hogy vÃ¡gtÃ¡ban, 50 mÃ©terrÅ‘l, szinte mindig betalÃ¡lnak a szembe vÃ¡gtÃ¡zÃ³ sisakrostÃ©lyÃ¡n, ami nem kis teljesÃ­tmÃ©ny. Egy erÅ‘dvÃ¡rosuk van, fÃ¶ldsÃ¡nccal, Ã©s kihegyezett karÃ³kkal kÃ¶rbevÃ©ve, nevezhetnÃ©nk fÅ‘vÃ¡rosnak is. Mivel a fÃ¶ld szinte mindig fagyos, Ã­gy a fÃ¶ldsÃ¡nc van olyan hatÃ¡sos, mint ha kÅ‘bÅ‘l raktÃ¡k volna. De nagyon sok lovashorda vÃ¡ndorol, Ã¡llatokat terelgetve, sÃ¡trakban lakva szerte a tÃ¶rzs terÃ¼letÃ©n. A tÃ¶rzs lÃ©tszÃ¡mÃ¡t 50 ezer kÃ¶rÃ¼lire becsÃ¼lik a Birodalomban, legnagyobb betÃ¶rÃ©sÃ¼kkor kicsivel tÃ¶bb, mint tÃ­zezer lovas barbÃ¡r tÃ¡madt, sok-sok sÃ¡mÃ¡n segÃ­tsÃ©gÃ©vel.
 
-Közlekedés: lóháton, ló vontatta szánokkal vagy ritkábban gyalog.
+KÃ¶zlekedÃ©s: lÃ³hÃ¡ton, lÃ³ vontatta szÃ¡nokkal vagy ritkÃ¡bban gyalog.
 
-Konyha: általában hús alapú, nagyon sok Birodalmi jellegû a fosztogatásokból, a fûszerezést is a Birodalomtól vették át.
+Konyha: Ã¡ltalÃ¡ban hÃºs alapÃº, nagyon sok Birodalmi jellegÅ± a fosztogatÃ¡sokbÃ³l, a fÅ±szerezÃ©st is a BirodalomtÃ³l vettÃ©k Ã¡t.
 
-Hadsereg: militarista törzs, minden 14 évet betöltött fiatal a hadsereg része lesz, és amíg meg nem hal (vagy ki nem öregszik - ez a ritkább) marad is. A hadsereg békeidõben vadászik, csordákat terel, bár szinte mindig fosztogat. Ennél a barbár törzsnél létezik egyedül a Hadi Sámán kaszt.
+Hadsereg: militarista tÃ¶rzs, minden 14 Ã©vet betÃ¶ltÃ¶tt fiatal a hadsereg rÃ©sze lesz, Ã©s amÃ­g meg nem hal (vagy ki nem Ã¶regszik - ez a ritkÃ¡bb) marad is. A hadsereg bÃ©keidÅ‘ben vadÃ¡szik, csordÃ¡kat terel, bÃ¡r szinte mindig fosztogat. EnnÃ©l a barbÃ¡r tÃ¶rzsnÃ©l lÃ©tezik egyedÃ¼l a Hadi SÃ¡mÃ¡n kaszt.
 
-### Az Üvöltõ Szelek törzs
-Sokkal békésebb törzs, kisebb fa sánccal körbevett falvakban élnek, legfontosabb tevékenység a halászat és a nomád pásztorkodás. Õk már kereskednek is, igaz a pénz fogalmát még nem ismerik, csak árucsere útján. Óriási flottájuk van kisebb part menti halászhajókból, az északi barbár törzsek között az Üvöltõ Szelek törzsben van a legtöbb halász. Minden falunak van egy fõvadásza, aki a segédeivel a vadállatokat, és egyéb veszélyes elemeket távol tartja a falu csordáitól, de élelemszerzés érdekében ritkán vadásznak. A kereskedelem miatt a legészakibb barbár törzs, ahol ismerik a kenyeret és a zöldségeket. Növénytermesztésük kimerül egy bizonyos fenyõfa fajta ültetésében, aminek olajos magvát fogyasztják desszertként, és porított formában fûszerként is használják - kellemesen kesernyés ízt ad a húsoknak. Sámánjaik kevésbé vérszomjasak, bár az idegen könnyen szellemeknek szánt áldozatként végezheti, ha nem vigyáz eléggé.
+### Az ÃœvÃ¶ltÅ‘ Szelek tÃ¶rzs
+Sokkal bÃ©kÃ©sebb tÃ¶rzs, kisebb fa sÃ¡nccal kÃ¶rbevett falvakban Ã©lnek, legfontosabb tevÃ©kenysÃ©g a halÃ¡szat Ã©s a nomÃ¡d pÃ¡sztorkodÃ¡s. Åk mÃ¡r kereskednek is, igaz a pÃ©nz fogalmÃ¡t mÃ©g nem ismerik, csak Ã¡rucsere ÃºtjÃ¡n. Ã“riÃ¡si flottÃ¡juk van kisebb part menti halÃ¡szhajÃ³kbÃ³l, az Ã©szaki barbÃ¡r tÃ¶rzsek kÃ¶zÃ¶tt az ÃœvÃ¶ltÅ‘ Szelek tÃ¶rzsben van a legtÃ¶bb halÃ¡sz. Minden falunak van egy fÅ‘vadÃ¡sza, aki a segÃ©deivel a vadÃ¡llatokat, Ã©s egyÃ©b veszÃ©lyes elemeket tÃ¡vol tartja a falu csordÃ¡itÃ³l, de Ã©lelemszerzÃ©s Ã©rdekÃ©ben ritkÃ¡n vadÃ¡sznak. A kereskedelem miatt a legÃ©szakibb barbÃ¡r tÃ¶rzs, ahol ismerik a kenyeret Ã©s a zÃ¶ldsÃ©geket. NÃ¶vÃ©nytermesztÃ©sÃ¼k kimerÃ¼l egy bizonyos fenyÅ‘fa fajta Ã¼ltetÃ©sÃ©ben, aminek olajos magvÃ¡t fogyasztjÃ¡k desszertkÃ©nt, Ã©s porÃ­tott formÃ¡ban fÅ±szerkÃ©nt is hasznÃ¡ljÃ¡k - kellemesen kesernyÃ©s Ã­zt ad a hÃºsoknak. SÃ¡mÃ¡njaik kevÃ©sbÃ© vÃ©rszomjasak, bÃ¡r az idegen kÃ¶nnyen szellemeknek szÃ¡nt Ã¡ldozatkÃ©nt vÃ©gezheti, ha nem vigyÃ¡z elÃ©ggÃ©.
 
-Közlekedés: lovon, ökör vontatta kordé, és télen szán, illetve gyalog. Kiépített úthálózat még természetesen nincs. 
+KÃ¶zlekedÃ©s: lovon, Ã¶kÃ¶r vontatta kordÃ©, Ã©s tÃ©len szÃ¡n, illetve gyalog. KiÃ©pÃ­tett ÃºthÃ¡lÃ³zat mÃ©g termÃ©szetesen nincs. 
 
-Konyha: a kereskedelem miatt sokrétû, ismerik a kenyeret, zöldségeket és fûszereket is használnak, de természetesen a hús az alapvetõ.
+Konyha: a kereskedelem miatt sokrÃ©tÅ±, ismerik a kenyeret, zÃ¶ldsÃ©geket Ã©s fÅ±szereket is hasznÃ¡lnak, de termÃ©szetesen a hÃºs az alapvetÅ‘.
 
-Hadsereg: itt is mindenki katona, de mivel sokkal békésebb törzs, és sokkal békésebb a környék (a Birodalom messze van), ennek kevés jelentõsége van, igazából azt mondhatnánk, hogy hivatásos katona a falunkénti fõvadász és segédjei, a többiek meg csak akkor fognak fegyvert, ha feltétlenül szükséges.
+Hadsereg: itt is mindenki katona, de mivel sokkal bÃ©kÃ©sebb tÃ¶rzs, Ã©s sokkal bÃ©kÃ©sebb a kÃ¶rnyÃ©k (a Birodalom messze van), ennek kevÃ©s jelentÅ‘sÃ©ge van, igazÃ¡bÃ³l azt mondhatnÃ¡nk, hogy hivatÃ¡sos katona a falunkÃ©nti fÅ‘vadÃ¡sz Ã©s segÃ©djei, a tÃ¶bbiek meg csak akkor fognak fegyvert, ha feltÃ©tlenÃ¼l szÃ¼ksÃ©ges.
 
-### A Szent Hely Védõi törzs
-Ez talán a legfurcsább törzs északon. A többi barbár törzs beteges félelemmel viseltetik irányukban, sohasem háborgatnák õket, még a Véres Kéz sem mer a területükre tévedni. A törzs központosított, egy meteorit kráterben kialakult tavon elterülõ cölöpváros a fõváros. Ezen kívül nincs jelentõs település a területen. Az érdekessége, hogy a szellemvilág a tó körül olyan erõsen van jelen, hogy szinte mindenki, aki ennek a törzsnek a tagja alacsonyabb szintû sámánként éli le életét, az itteni sámán vezetõknek pedig olyan nagy hatalmuk van, hogy az a Birodalmi fõpapsághoz mérhetõ. Nagyon sok a torzszülött, sok az öregkorára teljesen megõrült ember, és sokszor történik meg, hogy egy szellem saját alakjára formálja a befogadó sámánt, és így különleges félig ember félig valami más formákat találhatunk a tó körül. Idegeneket nem tûnek meg maguk között, így senki sem számolt be errõl a helyrõl, ez egy fehér folt a Birodalom tudásában. Minden körülöttük levõ barbár törzs ajándékokkal kedveskedik nekik, így lehetséges, hogy sem halászat, sem vadászat, sem állattenyésztés nincs a területen, mégsem éhezik senki sem. Mindenhonnan a legjobbat kapják ajándékként.
+### A Szent Hely VÃ©dÅ‘i tÃ¶rzs
+Ez talÃ¡n a legfurcsÃ¡bb tÃ¶rzs Ã©szakon. A tÃ¶bbi barbÃ¡r tÃ¶rzs beteges fÃ©lelemmel viseltetik irÃ¡nyukban, sohasem hÃ¡borgatnÃ¡k Å‘ket, mÃ©g a VÃ©res KÃ©z sem mer a terÃ¼letÃ¼kre tÃ©vedni. A tÃ¶rzs kÃ¶zpontosÃ­tott, egy meteorit krÃ¡terben kialakult tavon elterÃ¼lÅ‘ cÃ¶lÃ¶pvÃ¡ros a fÅ‘vÃ¡ros. Ezen kÃ­vÃ¼l nincs jelentÅ‘s telepÃ¼lÃ©s a terÃ¼leten. Az Ã©rdekessÃ©ge, hogy a szellemvilÃ¡g a tÃ³ kÃ¶rÃ¼l olyan erÅ‘sen van jelen, hogy szinte mindenki, aki ennek a tÃ¶rzsnek a tagja alacsonyabb szintÅ± sÃ¡mÃ¡nkÃ©nt Ã©li le Ã©letÃ©t, az itteni sÃ¡mÃ¡n vezetÅ‘knek pedig olyan nagy hatalmuk van, hogy az a Birodalmi fÅ‘papsÃ¡ghoz mÃ©rhetÅ‘. Nagyon sok a torzszÃ¼lÃ¶tt, sok az Ã¶regkorÃ¡ra teljesen megÅ‘rÃ¼lt ember, Ã©s sokszor tÃ¶rtÃ©nik meg, hogy egy szellem sajÃ¡t alakjÃ¡ra formÃ¡lja a befogadÃ³ sÃ¡mÃ¡nt, Ã©s Ã­gy kÃ¼lÃ¶nleges fÃ©lig ember fÃ©lig valami mÃ¡s formÃ¡kat talÃ¡lhatunk a tÃ³ kÃ¶rÃ¼l. Idegeneket nem tÅ±nek meg maguk kÃ¶zÃ¶tt, Ã­gy senki sem szÃ¡molt be errÅ‘l a helyrÅ‘l, ez egy fehÃ©r folt a Birodalom tudÃ¡sÃ¡ban. Minden kÃ¶rÃ¼lÃ¶ttÃ¼k levÅ‘ barbÃ¡r tÃ¶rzs ajÃ¡ndÃ©kokkal kedveskedik nekik, Ã­gy lehetsÃ©ges, hogy sem halÃ¡szat, sem vadÃ¡szat, sem Ã¡llattenyÃ©sztÃ©s nincs a terÃ¼leten, mÃ©gsem Ã©hezik senki sem. Mindenhonnan a legjobbat kapjÃ¡k ajÃ¡ndÃ©kkÃ©nt.
 
-Közlekedés: Gyalog vagy a szellemek segítségével. Õrjítõen sokféleképpen.
+KÃ¶zlekedÃ©s: Gyalog vagy a szellemek segÃ­tsÃ©gÃ©vel. ÅrjÃ­tÅ‘en sokfÃ©lekÃ©ppen.
 
-Konyha: nincs, amit kapnak ajándékba, azt fogyasztják, vagy a szellemekkel hozatnak - csináltatnak maguknak.
+Konyha: nincs, amit kapnak ajÃ¡ndÃ©kba, azt fogyasztjÃ¡k, vagy a szellemekkel hozatnak - csinÃ¡ltatnak maguknak.
 
-Hadsereg: nincs, illetve a szó általánosan vett értelmében nem létezik, teljesen rá vannak utalva a szellemvilágra és a körülöttük levõ törzsekre.
+Hadsereg: nincs, illetve a szÃ³ Ã¡ltalÃ¡nosan vett Ã©rtelmÃ©ben nem lÃ©tezik, teljesen rÃ¡ vannak utalva a szellemvilÃ¡gra Ã©s a kÃ¶rÃ¼lÃ¶ttÃ¼k levÅ‘ tÃ¶rzsekre.
 
-### A Vérszomjasak törzs
-A másik olyan barbár törzs, akivel a Birodalom folyamatos háborúban áll. A leghosszabb Birodalmi határvonallal is õk rendelkeznek. A hosszú határ miatt nehezebben állnak ellen a Birodalmi Légióknak, így ez a törzs (nevükkel ellentétben) szinte békésnek mondható a Véres Kézhez képest. A déli területeken megjelenik a növénytermesztés, északi területeken a nomád, délen pedig a helyhez kötött állattenyésztés a divat. A vadászat természetesen még itt is fontos forrása a táplálékoknak. Megerõdített falvakban laknak, nincs központosítás, egy falu 100 - 1000 lakosú lehet. Leghíresebb tettük talán az, amikor a Birodalmi Légiók egyszer már majdnem eljutottak a Szent Hely területére, és ezt megakadályozandó az 5 éves gyerekek is, akár foggal-körömmel is nekiugrott a légiósoknak, így meghátrálásra kényszerítve azt. Azóta hasonló eset nem fordult elõ, a Birodalom féltékenyen õrzi a saját területeit, de többé nem tört mélyen be a Vérszomjasak területére. Túl nagy megrázkódtatás volt a sokat látott legionáriusoknak.
+### A VÃ©rszomjasak tÃ¶rzs
+A mÃ¡sik olyan barbÃ¡r tÃ¶rzs, akivel a Birodalom folyamatos hÃ¡borÃºban Ã¡ll. A leghosszabb Birodalmi hatÃ¡rvonallal is Å‘k rendelkeznek. A hosszÃº hatÃ¡r miatt nehezebben Ã¡llnak ellen a Birodalmi LÃ©giÃ³knak, Ã­gy ez a tÃ¶rzs (nevÃ¼kkel ellentÃ©tben) szinte bÃ©kÃ©snek mondhatÃ³ a VÃ©res KÃ©zhez kÃ©pest. A dÃ©li terÃ¼leteken megjelenik a nÃ¶vÃ©nytermesztÃ©s, Ã©szaki terÃ¼leteken a nomÃ¡d, dÃ©len pedig a helyhez kÃ¶tÃ¶tt Ã¡llattenyÃ©sztÃ©s a divat. A vadÃ¡szat termÃ©szetesen mÃ©g itt is fontos forrÃ¡sa a tÃ¡plÃ¡lÃ©koknak. MegerÅ‘dÃ­tett falvakban laknak, nincs kÃ¶zpontosÃ­tÃ¡s, egy falu 100 - 1000 lakosÃº lehet. LeghÃ­resebb tettÃ¼k talÃ¡n az, amikor a Birodalmi LÃ©giÃ³k egyszer mÃ¡r majdnem eljutottak a Szent Hely terÃ¼letÃ©re, Ã©s ezt megakadÃ¡lyozandÃ³ az 5 Ã©ves gyerekek is, akÃ¡r foggal-kÃ¶rÃ¶mmel is nekiugrott a lÃ©giÃ³soknak, Ã­gy meghÃ¡trÃ¡lÃ¡sra kÃ©nyszerÃ­tve azt. AzÃ³ta hasonlÃ³ eset nem fordult elÅ‘, a Birodalom fÃ©ltÃ©kenyen Å‘rzi a sajÃ¡t terÃ¼leteit, de tÃ¶bbÃ© nem tÃ¶rt mÃ©lyen be a VÃ©rszomjasak terÃ¼letÃ©re. TÃºl nagy megrÃ¡zkÃ³dtatÃ¡s volt a sokat lÃ¡tott legionÃ¡riusoknak.
 
-Közlekedés: Lóval, ökrös szekérrel, szánnal és gyalog.
+KÃ¶zlekedÃ©s: LÃ³val, Ã¶krÃ¶s szekÃ©rrel, szÃ¡nnal Ã©s gyalog.
 
-Konyha: Húsok, északi vidékeken is termõ növények, ritkán fûszereznek a són kívül.
+Konyha: HÃºsok, Ã©szaki vidÃ©keken is termÅ‘ nÃ¶vÃ©nyek, ritkÃ¡n fÅ±szereznek a sÃ³n kÃ­vÃ¼l.
 
-Hadsereg: Itt is minden férfi katona, amíg meg nem hal, ebben a törzsben a hadi fõnöknek ugyanakkora hatalma van, mint a sámánnak.
+Hadsereg: Itt is minden fÃ©rfi katona, amÃ­g meg nem hal, ebben a tÃ¶rzsben a hadi fÅ‘nÃ¶knek ugyanakkora hatalma van, mint a sÃ¡mÃ¡nnak.
 
-### A Fekete Medve törzs
-A törzs területe régen birodalmi terület volt, ez nem olyan meglepõ, hiszen nagyrészt minden föld a Barbaricumban birodalmi televény volt, csakhogy a nagy különbség az összes többi barbár törzzsel szemben, hogy itt még élnek Istencsászár hívõk, akik jól megférnek a hódítókkal. Az egyedüli barbár törzs, ami kereskedik a birodalommal, és az egyedüli, ami nem támadta meg az utóbbi 50 évben legalább egyszer a birodalmat. Néhány kisebb várost is találunk itt, szinte szabad vallásgyakorlás van, annyi a törvényi megkötés, hogy a fõbíró mindig a jelen lévõ legnagyobb hatalmú sámán, de apróbb ügyekben Istencsászár hívõ papok is döntenek néha (mivel vannak ilyenek! - fõleg a városokban). A lakosság körülbelül 10000 Istencsászár hitû és körülbelül 20-30 ezer barbárból áll. A birodalmi úthálózat itt még üzemel! Ismerik a pénz fogalmát, a birodalmi fizetõeszközöket elfogadják (semmi mást), a többi barbár törzzsel pedig cserekereskedelemmel üzletelnek. A Fekete Medve törzs lett a Barbaricum kalmára, mindent adnak, mindent vesznek. A törzs tagjait szinte az egész törzsközösségben meg lehet találni, éppen a kereskedõ jellegük miatt. Hadseregük (az északi törzsek között egyedülálló) zsoldos sereg. Az urak a legnagyobb vagyonra szert tett kereskedõk lettek, akik a szegényebb sorsú népbõl válogatják testõrségüket. Csak itt vannak bérsámánok! Ennek a foglalkozásnak a többi barbár törzsben semmi megbecsülése nincsen, de itt fontos alap, amire a törzs mindennapi élete épül. A legnagyobb sámánok lesznek a bírák, szinte minden bíró bérsámán volt ifjúkorában.
+### A Fekete Medve tÃ¶rzs
+A tÃ¶rzs terÃ¼lete rÃ©gen birodalmi terÃ¼let volt, ez nem olyan meglepÅ‘, hiszen nagyrÃ©szt minden fÃ¶ld a Barbaricumban birodalmi televÃ©ny volt, csakhogy a nagy kÃ¼lÃ¶nbsÃ©g az Ã¶sszes tÃ¶bbi barbÃ¡r tÃ¶rzzsel szemben, hogy itt mÃ©g Ã©lnek IstencsÃ¡szÃ¡r hÃ­vÅ‘k, akik jÃ³l megfÃ©rnek a hÃ³dÃ­tÃ³kkal. Az egyedÃ¼li barbÃ¡r tÃ¶rzs, ami kereskedik a birodalommal, Ã©s az egyedÃ¼li, ami nem tÃ¡madta meg az utÃ³bbi 50 Ã©vben legalÃ¡bb egyszer a birodalmat. NÃ©hÃ¡ny kisebb vÃ¡rost is talÃ¡lunk itt, szinte szabad vallÃ¡sgyakorlÃ¡s van, annyi a tÃ¶rvÃ©nyi megkÃ¶tÃ©s, hogy a fÅ‘bÃ­rÃ³ mindig a jelen lÃ©vÅ‘ legnagyobb hatalmÃº sÃ¡mÃ¡n, de aprÃ³bb Ã¼gyekben IstencsÃ¡szÃ¡r hÃ­vÅ‘ papok is dÃ¶ntenek nÃ©ha (mivel vannak ilyenek! - fÅ‘leg a vÃ¡rosokban). A lakossÃ¡g kÃ¶rÃ¼lbelÃ¼l 10000 IstencsÃ¡szÃ¡r hitÅ± Ã©s kÃ¶rÃ¼lbelÃ¼l 20-30 ezer barbÃ¡rbÃ³l Ã¡ll. A birodalmi ÃºthÃ¡lÃ³zat itt mÃ©g Ã¼zemel! Ismerik a pÃ©nz fogalmÃ¡t, a birodalmi fizetÅ‘eszkÃ¶zÃ¶ket elfogadjÃ¡k (semmi mÃ¡st), a tÃ¶bbi barbÃ¡r tÃ¶rzzsel pedig cserekereskedelemmel Ã¼zletelnek. A Fekete Medve tÃ¶rzs lett a Barbaricum kalmÃ¡ra, mindent adnak, mindent vesznek. A tÃ¶rzs tagjait szinte az egÃ©sz tÃ¶rzskÃ¶zÃ¶ssÃ©gben meg lehet talÃ¡lni, Ã©ppen a kereskedÅ‘ jellegÃ¼k miatt. HadseregÃ¼k (az Ã©szaki tÃ¶rzsek kÃ¶zÃ¶tt egyedÃ¼lÃ¡llÃ³) zsoldos sereg. Az urak a legnagyobb vagyonra szert tett kereskedÅ‘k lettek, akik a szegÃ©nyebb sorsÃº nÃ©pbÅ‘l vÃ¡logatjÃ¡k testÅ‘rsÃ©gÃ¼ket. Csak itt vannak bÃ©rsÃ¡mÃ¡nok! Ennek a foglalkozÃ¡snak a tÃ¶bbi barbÃ¡r tÃ¶rzsben semmi megbecsÃ¼lÃ©se nincsen, de itt fontos alap, amire a tÃ¶rzs mindennapi Ã©lete Ã©pÃ¼l. A legnagyobb sÃ¡mÃ¡nok lesznek a bÃ­rÃ¡k, szinte minden bÃ­rÃ³ bÃ©rsÃ¡mÃ¡n volt ifjÃºkorÃ¡ban.
 
-Közlekedés: mintha csak a birodalomban lennénk, kiépített úthálózat (csak rosszabb minõségû, gyengén karbantartva), lóval, szekérrel, télen szánnal és természetesen gyalog. Nincs postakocsi hálózat, de vannak karavánok. A közbiztonság sem sokkal rosszabb, mint a birodalomban.
+KÃ¶zlekedÃ©s: mintha csak a birodalomban lennÃ©nk, kiÃ©pÃ­tett ÃºthÃ¡lÃ³zat (csak rosszabb minÅ‘sÃ©gÅ±, gyengÃ©n karbantartva), lÃ³val, szekÃ©rrel, tÃ©len szÃ¡nnal Ã©s termÃ©szetesen gyalog. Nincs postakocsi hÃ¡lÃ³zat, de vannak karavÃ¡nok. A kÃ¶zbiztonsÃ¡g sem sokkal rosszabb, mint a birodalomban.
 
-Konyha: vegyes, a gazdagabbak olyan sokfélét és sokat esznek, mint a birodalom gazdagjai, a szegényebbek, meg ami jut. Akik nem a néhány városban laknak, azok halásznak, vadásznak, gyûjtögetnek, és néha földet mûvelnek.
+Konyha: vegyes, a gazdagabbak olyan sokfÃ©lÃ©t Ã©s sokat esznek, mint a birodalom gazdagjai, a szegÃ©nyebbek, meg ami jut. Akik nem a nÃ©hÃ¡ny vÃ¡rosban laknak, azok halÃ¡sznak, vadÃ¡sznak, gyÅ±jtÃ¶getnek, Ã©s nÃ©ha fÃ¶ldet mÅ±velnek.
 
-Hadsereg: Zsoldos, minél nagyobb úr valaki annál több zsoldos szolgál alatta. A legbefolyásosabbaknak több bérsámán is dolgozik. Nincs központosított hatalom, de valamiért jól megvannak egymás mellett, talán, mert csak a pénz számít a gazdagoknak, semmi más.
+Hadsereg: Zsoldos, minÃ©l nagyobb Ãºr valaki annÃ¡l tÃ¶bb zsoldos szolgÃ¡l alatta. A legbefolyÃ¡sosabbaknak tÃ¶bb bÃ©rsÃ¡mÃ¡n is dolgozik. Nincs kÃ¶zpontosÃ­tott hatalom, de valamiÃ©rt jÃ³l megvannak egymÃ¡s mellett, talÃ¡n, mert csak a pÃ©nz szÃ¡mÃ­t a gazdagoknak, semmi mÃ¡s.
 
-### A Földanya törzs
-Az Északi röghegység legmagasabb nyúlványai találhatók meg a területükön, leginkább barlanglakó törzsek, akik vadásznak, gyûjtögetnek. Erõs a sámánok befolyása, a legnagyobb hatalmú szellem (valószínûleg az életmódjuk miatt) a Földanya. Jó néhány vulkán is található itt, az emberek betegesen félnek tõlük, a sámánjaik pedig kihasználják a bennük rejlõ erõket. Bár nagyon nagy területet mondhat magáénak a törzs, nagyon kevesen laknak itt. Körülbelül 10000 ember él és hal a Földanya sámánjai felügyelete alatt. Több száz leomlott birodalmi erõsség, romok, a múlt emlékei mindenütt, kalandozók kánaánja lehetne, ha nem lenne a törvény, hogy minden vulkán éhségét külhoni ember áldozatával csitítani lehet. Utaknak talán a nyomait még fellelhetjük, de sokra ne számítsunk, erdõ mindenütt, ahol nem ott a puszta sziklák, és a romok. Itt voltak az elsõ csaták, a legnagyobbak, talán még mindig sok olyan hely van, ami nem felejtette el milyen is a háború, és viseli magán a nyomait. A háborúban, itt találták magukat, a Birodalmi Csatamágusok szembe elõször azzal a ténnyel, hogy ha sok manát használnak el egy csatában, hát elfogy a mágia, és eszméletlenül esnek össze mindazok, akik nemes eldák. Elég egyszerû úgy megverni egy sereget, hogy a nagy része magától eldõl, már csak fel kell áldozni õket a Földanyának…
+### A FÃ¶ldanya tÃ¶rzs
+Az Ã‰szaki rÃ¶ghegysÃ©g legmagasabb nyÃºlvÃ¡nyai talÃ¡lhatÃ³k meg a terÃ¼letÃ¼kÃ¶n, leginkÃ¡bb barlanglakÃ³ tÃ¶rzsek, akik vadÃ¡sznak, gyÅ±jtÃ¶getnek. ErÅ‘s a sÃ¡mÃ¡nok befolyÃ¡sa, a legnagyobb hatalmÃº szellem (valÃ³szÃ­nÅ±leg az Ã©letmÃ³djuk miatt) a FÃ¶ldanya. JÃ³ nÃ©hÃ¡ny vulkÃ¡n is talÃ¡lhatÃ³ itt, az emberek betegesen fÃ©lnek tÅ‘lÃ¼k, a sÃ¡mÃ¡njaik pedig kihasznÃ¡ljÃ¡k a bennÃ¼k rejlÅ‘ erÅ‘ket. BÃ¡r nagyon nagy terÃ¼letet mondhat magÃ¡Ã©nak a tÃ¶rzs, nagyon kevesen laknak itt. KÃ¶rÃ¼lbelÃ¼l 10000 ember Ã©l Ã©s hal a FÃ¶ldanya sÃ¡mÃ¡njai felÃ¼gyelete alatt. TÃ¶bb szÃ¡z leomlott birodalmi erÅ‘ssÃ©g, romok, a mÃºlt emlÃ©kei mindenÃ¼tt, kalandozÃ³k kÃ¡naÃ¡nja lehetne, ha nem lenne a tÃ¶rvÃ©ny, hogy minden vulkÃ¡n Ã©hsÃ©gÃ©t kÃ¼lhoni ember Ã¡ldozatÃ¡val csitÃ­tani lehet. Utaknak talÃ¡n a nyomait mÃ©g fellelhetjÃ¼k, de sokra ne szÃ¡mÃ­tsunk, erdÅ‘ mindenÃ¼tt, ahol nem ott a puszta sziklÃ¡k, Ã©s a romok. Itt voltak az elsÅ‘ csatÃ¡k, a legnagyobbak, talÃ¡n mÃ©g mindig sok olyan hely van, ami nem felejtette el milyen is a hÃ¡borÃº, Ã©s viseli magÃ¡n a nyomait. A hÃ¡borÃºban, itt talÃ¡ltÃ¡k magukat, a Birodalmi CsatamÃ¡gusok szembe elÅ‘szÃ¶r azzal a tÃ©nnyel, hogy ha sok manÃ¡t hasznÃ¡lnak el egy csatÃ¡ban, hÃ¡t elfogy a mÃ¡gia, Ã©s eszmÃ©letlenÃ¼l esnek Ã¶ssze mindazok, akik nemes eldÃ¡k. ElÃ©g egyszerÅ± Ãºgy megverni egy sereget, hogy a nagy rÃ©sze magÃ¡tÃ³l eldÅ‘l, mÃ¡r csak fel kell Ã¡ldozni Å‘ket a FÃ¶ldanyÃ¡nakâ€¦
 
-Közlekedés: gyalog, ritkán lovon vagy szamárháton
+KÃ¶zlekedÃ©s: gyalog, ritkÃ¡n lovon vagy szamÃ¡rhÃ¡ton
 
-Konyha: nagyrészt húsok, amiket a hegyi erdõkben lehet vadászni, és bogyók, édesgyökerek, amiket a nõk gyûjtenek össze. 
+Konyha: nagyrÃ©szt hÃºsok, amiket a hegyi erdÅ‘kben lehet vadÃ¡szni, Ã©s bogyÃ³k, Ã©desgyÃ¶kerek, amiket a nÅ‘k gyÅ±jtenek Ã¶ssze. 
 
-Hadsereg: itt is mindenki katona, kivéve a sámánt és tanoncait, valamint a nõket és gyerekeket. Gyalogos hadviselés illik a hegyek közé, vágó-, illetve zúzófegyverekkel. Az egyszerû rövid íjat is használják.
+Hadsereg: itt is mindenki katona, kivÃ©ve a sÃ¡mÃ¡nt Ã©s tanoncait, valamint a nÅ‘ket Ã©s gyerekeket. Gyalogos hadviselÃ©s illik a hegyek kÃ¶zÃ©, vÃ¡gÃ³-, illetve zÃºzÃ³fegyverekkel. Az egyszerÅ± rÃ¶vid Ã­jat is hasznÃ¡ljÃ¡k.
 
-### Vizek Lovasa törzs
-A Saskarom-félsziget legészakibb részén található a törzs területe. Halászattal, vadászattal foglalkoznak az év legnagyobb részében. Misztikus tiszteletet táplálnak a hajóik és a tenger iránt. Minden évben a nagy olvadás idején elindulnak hajóikon dél felé, és akár 1000 km-re is elkalandoznak ilyenkor. Fosztogatnak, kalózkodnak. Senki sincs tõlük biztonságban, ha egy déli kalózherceget megkérdez valaki, hogy kitõl tart a legjobban, azt fogja felelni, hogy a Vizek lovasa törzstõl… Egyárbocos, egy vagy két evezõsoros hajóik vannak, mindegyik orra vasalt, öklelõ orr. Mindenki harcos egy hajón, és egyben mindenki rabszolga is, ha kell a vezetõ ugyanúgy megragadja az evezõket, mint bárki más. Vízi szellemeket tisztelõ sámánjaik vannak, nagyobb hajókon, netán komolyabb portyán mindig van 1-2 belõlük. A sámánok rituálisan felszentelik az összes hajójukat, ezért tûnhet furcsának a külhoniak szemében, a nagy sebesség, az hogy a hajó jobban állja a tengert, mint délebbi, civilizáltabb társai, valahogyan mindig elkerüli a zátonyra futást, és nehéz elsüllyeszteni. Természetesen nagyon sokféle terményt, és tárgyakat lehet náluk megtalálni, az életvitelükbõl adódóan szinte mindenük van, és ha valahonnan nem vehetik el erõvel, ott akár kereskednek is.
+### Vizek Lovasa tÃ¶rzs
+A Saskarom-fÃ©lsziget legÃ©szakibb rÃ©szÃ©n talÃ¡lhatÃ³ a tÃ¶rzs terÃ¼lete. HalÃ¡szattal, vadÃ¡szattal foglalkoznak az Ã©v legnagyobb rÃ©szÃ©ben. Misztikus tiszteletet tÃ¡plÃ¡lnak a hajÃ³ik Ã©s a tenger irÃ¡nt. Minden Ã©vben a nagy olvadÃ¡s idejÃ©n elindulnak hajÃ³ikon dÃ©l felÃ©, Ã©s akÃ¡r 1000 km-re is elkalandoznak ilyenkor. Fosztogatnak, kalÃ³zkodnak. Senki sincs tÅ‘lÃ¼k biztonsÃ¡gban, ha egy dÃ©li kalÃ³zherceget megkÃ©rdez valaki, hogy kitÅ‘l tart a legjobban, azt fogja felelni, hogy a Vizek lovasa tÃ¶rzstÅ‘lâ€¦ EgyÃ¡rbocos, egy vagy kÃ©t evezÅ‘soros hajÃ³ik vannak, mindegyik orra vasalt, Ã¶klelÅ‘ orr. Mindenki harcos egy hajÃ³n, Ã©s egyben mindenki rabszolga is, ha kell a vezetÅ‘ ugyanÃºgy megragadja az evezÅ‘ket, mint bÃ¡rki mÃ¡s. VÃ­zi szellemeket tisztelÅ‘ sÃ¡mÃ¡njaik vannak, nagyobb hajÃ³kon, netÃ¡n komolyabb portyÃ¡n mindig van 1-2 belÅ‘lÃ¼k. A sÃ¡mÃ¡nok rituÃ¡lisan felszentelik az Ã¶sszes hajÃ³jukat, ezÃ©rt tÅ±nhet furcsÃ¡nak a kÃ¼lhoniak szemÃ©ben, a nagy sebessÃ©g, az hogy a hajÃ³ jobban Ã¡llja a tengert, mint dÃ©lebbi, civilizÃ¡ltabb tÃ¡rsai, valahogyan mindig elkerÃ¼li a zÃ¡tonyra futÃ¡st, Ã©s nehÃ©z elsÃ¼llyeszteni. TermÃ©szetesen nagyon sokfÃ©le termÃ©nyt, Ã©s tÃ¡rgyakat lehet nÃ¡luk megtalÃ¡lni, az Ã©letvitelÃ¼kbÅ‘l adÃ³dÃ³an szinte mindenÃ¼k van, Ã©s ha valahonnan nem vehetik el erÅ‘vel, ott akÃ¡r kereskednek is.
 
-Közlekedés: a szárazföldön gyalog, vagy lovon, vízen 1-2 evezõsoros, egyárbocos hajókkal.
+KÃ¶zlekedÃ©s: a szÃ¡razfÃ¶ldÃ¶n gyalog, vagy lovon, vÃ­zen 1-2 evezÅ‘soros, egyÃ¡rbocos hajÃ³kkal.
 
-Konyha: nagyrészt halak, és egyéb tengeri élõlények. Terméketlen sziklás, fenyvesekkel szabdalt helyen laknak, de a sokfélét rabolnak, így eléggé változatos az étrend.
+Konyha: nagyrÃ©szt halak, Ã©s egyÃ©b tengeri Ã©lÅ‘lÃ©nyek. TermÃ©ketlen sziklÃ¡s, fenyvesekkel szabdalt helyen laknak, de a sokfÃ©lÃ©t rabolnak, Ã­gy elÃ©ggÃ© vÃ¡ltozatos az Ã©trend.
 
-Hadsereg: ennél a törzsnél is mindenki katona, a sámánnak nincs vezetõ szerepe, õ is csak szolgálja a törzsfõnököt. Íjak, harci szekercék (ezt szeretik, hiszen ölni és hajót javítani is lehet vele), kardok, pajzsok, bõrpáncélok teszik ki a felszerelésük nagy részét. Természetesen, a rablóhadjáratok miatt szinte bármivel összefuthatunk.
+Hadsereg: ennÃ©l a tÃ¶rzsnÃ©l is mindenki katona, a sÃ¡mÃ¡nnak nincs vezetÅ‘ szerepe, Å‘ is csak szolgÃ¡lja a tÃ¶rzsfÅ‘nÃ¶kÃ¶t. Ãjak, harci szekercÃ©k (ezt szeretik, hiszen Ã¶lni Ã©s hajÃ³t javÃ­tani is lehet vele), kardok, pajzsok, bÅ‘rpÃ¡ncÃ©lok teszik ki a felszerelÃ©sÃ¼k nagy rÃ©szÃ©t. TermÃ©szetesen, a rablÃ³hadjÃ¡ratok miatt szinte bÃ¡rmivel Ã¶sszefuthatunk.
 
-## A Déli Szövetség
-Hat törzs komoly szövetségi rendszere. Közös törzsi tanáccsal rendelkeznek, ennek a tanácsnak a fejét minden évben választják. Ne gondoljunk azonban valami demokratikus választási rendszerre, a törzsek szószólójának minden évben meg kell védenie a címét. Elsõ vérig tartó viadalokat vívnak, mind a hat törzs saját törzsfõnökét delegálhatja a viadalra. Erre a neves eseményre kialakult egy aréna, ami a Mourmonn törzs területén van, habár semleges területnek számít. Egy sziklás völgy van faragva, hogy a nézõközönségnek is kényelmes helye legyen. Az arénát természetesen másra is használják, a törzsek közötti vitás kérdések is az aréna porondján dõlnek el, ezeket a delegált bajnok, vagy a sértett a sértõ ellen, mikor hogy dönti el. Legtöbbször elsõ vérig tartanak a küzdelmek, gyilkosság, asszonyrablás, vagy lótolvajlás vádja esetén van engedélyezve a halálig tartó küzdelem. Az aréna köré egy komoly falu épült ki az évek folyamán, itt van a hat törzs kereskedelmi központja, itt van az az erõd, ahol a törzsi vezetõk találkoznak egymással. Az aréna befogadó képessége maximum 8000 fõ lehet, az erõd egy cölöpvár, földsáncokkal. A törzsek kereskednek a körülöttük élõkkel, a civilizáltabb barbár törzsek közé tartoznak. Léteznek utak, de általában csak kitaposott keréknyomokról van szó. Természetesen sugaras elrendezés alakult ki, minden fontosabb út az arénához vezet.
+## A DÃ©li SzÃ¶vetsÃ©g
+Hat tÃ¶rzs komoly szÃ¶vetsÃ©gi rendszere. KÃ¶zÃ¶s tÃ¶rzsi tanÃ¡ccsal rendelkeznek, ennek a tanÃ¡csnak a fejÃ©t minden Ã©vben vÃ¡lasztjÃ¡k. Ne gondoljunk azonban valami demokratikus vÃ¡lasztÃ¡si rendszerre, a tÃ¶rzsek szÃ³szÃ³lÃ³jÃ¡nak minden Ã©vben meg kell vÃ©denie a cÃ­mÃ©t. ElsÅ‘ vÃ©rig tartÃ³ viadalokat vÃ­vnak, mind a hat tÃ¶rzs sajÃ¡t tÃ¶rzsfÅ‘nÃ¶kÃ©t delegÃ¡lhatja a viadalra. Erre a neves esemÃ©nyre kialakult egy arÃ©na, ami a Mourmonn tÃ¶rzs terÃ¼letÃ©n van, habÃ¡r semleges terÃ¼letnek szÃ¡mÃ­t. Egy sziklÃ¡s vÃ¶lgy van faragva, hogy a nÃ©zÅ‘kÃ¶zÃ¶nsÃ©gnek is kÃ©nyelmes helye legyen. Az arÃ©nÃ¡t termÃ©szetesen mÃ¡sra is hasznÃ¡ljÃ¡k, a tÃ¶rzsek kÃ¶zÃ¶tti vitÃ¡s kÃ©rdÃ©sek is az arÃ©na porondjÃ¡n dÅ‘lnek el, ezeket a delegÃ¡lt bajnok, vagy a sÃ©rtett a sÃ©rtÅ‘ ellen, mikor hogy dÃ¶nti el. LegtÃ¶bbszÃ¶r elsÅ‘ vÃ©rig tartanak a kÃ¼zdelmek, gyilkossÃ¡g, asszonyrablÃ¡s, vagy lÃ³tolvajlÃ¡s vÃ¡dja esetÃ©n van engedÃ©lyezve a halÃ¡lig tartÃ³ kÃ¼zdelem. Az arÃ©na kÃ¶rÃ© egy komoly falu Ã©pÃ¼lt ki az Ã©vek folyamÃ¡n, itt van a hat tÃ¶rzs kereskedelmi kÃ¶zpontja, itt van az az erÅ‘d, ahol a tÃ¶rzsi vezetÅ‘k talÃ¡lkoznak egymÃ¡ssal. Az arÃ©na befogadÃ³ kÃ©pessÃ©ge maximum 8000 fÅ‘ lehet, az erÅ‘d egy cÃ¶lÃ¶pvÃ¡r, fÃ¶ldsÃ¡ncokkal. A tÃ¶rzsek kereskednek a kÃ¶rÃ¼lÃ¶ttÃ¼k Ã©lÅ‘kkel, a civilizÃ¡ltabb barbÃ¡r tÃ¶rzsek kÃ¶zÃ© tartoznak. LÃ©teznek utak, de Ã¡ltalÃ¡ban csak kitaposott kerÃ©knyomokrÃ³l van szÃ³. TermÃ©szetesen sugaras elrendezÃ©s alakult ki, minden fontosabb Ãºt az arÃ©nÃ¡hoz vezet.
 
-A hat törzs:
+A hat tÃ¶rzs:
 
-### Vasöklök
-Régebben nagyobb területtel rendelkeztek, de mivel a fekete Medvének kellett az a rész, ahol fontos utak futottak össze, ezért elzavarta a kisebb törzset, ami ekkor kényszerült bele a törzsi szövetségbe. Harcias törzs, de nincsenek sokan.
+### VasÃ¶klÃ¶k
+RÃ©gebben nagyobb terÃ¼lettel rendelkeztek, de mivel a fekete MedvÃ©nek kellett az a rÃ©sz, ahol fontos utak futottak Ã¶ssze, ezÃ©rt elzavarta a kisebb tÃ¶rzset, ami ekkor kÃ©nyszerÃ¼lt bele a tÃ¶rzsi szÃ¶vetsÃ©gbe. Harcias tÃ¶rzs, de nincsenek sokan.
 
 ### Mourmonn
-A szövetség legerõsebb törzse, ez nem csak azért alakult így, mert az arénát az õ területükön építették meg, hanem, mert központi fekvésük miatt ritkábban kell harcolniuk a túlélésért. Nagy a sámánok hatalma, sok mindenbe beleszólnak.
+A szÃ¶vetsÃ©g legerÅ‘sebb tÃ¶rzse, ez nem csak azÃ©rt alakult Ã­gy, mert az arÃ©nÃ¡t az Å‘ terÃ¼letÃ¼kÃ¶n Ã©pÃ­tettÃ©k meg, hanem, mert kÃ¶zponti fekvÃ©sÃ¼k miatt ritkÃ¡bban kell harcolniuk a tÃºlÃ©lÃ©sÃ©rt. Nagy a sÃ¡mÃ¡nok hatalma, sok mindenbe beleszÃ³lnak.
 
-### Sólyomasszony
-A birodalom közvetlen szomszédsága miatt sokszor kell segítséget kérniük a többi szövetséges törzstõl. Termékeny talaj, növénytermesztés jellemzõ. Itt ér a barbár területekre a Császár Országútja, nagy a forgalom, még most is rajta. Nem túl harcias törzs, a saját területét viszont féltve õrzi.
+### SÃ³lyomasszony
+A birodalom kÃ¶zvetlen szomszÃ©dsÃ¡ga miatt sokszor kell segÃ­tsÃ©get kÃ©rniÃ¼k a tÃ¶bbi szÃ¶vetsÃ©ges tÃ¶rzstÅ‘l. TermÃ©keny talaj, nÃ¶vÃ©nytermesztÃ©s jellemzÅ‘. Itt Ã©r a barbÃ¡r terÃ¼letekre a CsÃ¡szÃ¡r OrszÃ¡gÃºtja, nagy a forgalom, mÃ©g most is rajta. Nem tÃºl harcias tÃ¶rzs, a sajÃ¡t terÃ¼letÃ©t viszont fÃ©ltve Å‘rzi.
 
 ### Fekete Vipera
-Különleges törzs, egyedi fejlõdését annak köszönheti, hogy a Birodalmi Orgyilkos klán egyik erõdje az õ területükön feküdt, és meglepõ módon elég sok információ és felszerelés került a barbárok kezére, akiknek nagyon tetszett az a hatékonyság, ahogyan a birodalmiak a kényes dolgaikat kezelik, és nagyon sok dolgot átvettek. Innentõl már ez a törzs õrizte ezeket a dolgokat féltékenyen, hiszen ez volt az egyetlen elõnyük a többi törzzsel szemben. Hidegvérû gyilkosok, akiket a sámánok hathatósan segítenek. Félelmetes hírük van. Csak azért nem szerzik meg folyamatosan a hat törzs vezetésének jogát, mert megtanulták a birodalomtól azt is, hogy háttérbõl könnyebb irányítani. Ritkán látni olyan barbárt, aki saját és törzse céljai érdekében akarattal elveszíti a fontos küzdelmet.
+KÃ¼lÃ¶nleges tÃ¶rzs, egyedi fejlÅ‘dÃ©sÃ©t annak kÃ¶szÃ¶nheti, hogy a Birodalmi Orgyilkos klÃ¡n egyik erÅ‘dje az Å‘ terÃ¼letÃ¼kÃ¶n fekÃ¼dt, Ã©s meglepÅ‘ mÃ³don elÃ©g sok informÃ¡ciÃ³ Ã©s felszerelÃ©s kerÃ¼lt a barbÃ¡rok kezÃ©re, akiknek nagyon tetszett az a hatÃ©konysÃ¡g, ahogyan a birodalmiak a kÃ©nyes dolgaikat kezelik, Ã©s nagyon sok dolgot Ã¡tvettek. InnentÅ‘l mÃ¡r ez a tÃ¶rzs Å‘rizte ezeket a dolgokat fÃ©ltÃ©kenyen, hiszen ez volt az egyetlen elÅ‘nyÃ¼k a tÃ¶bbi tÃ¶rzzsel szemben. HidegvÃ©rÅ± gyilkosok, akiket a sÃ¡mÃ¡nok hathatÃ³san segÃ­tenek. FÃ©lelmetes hÃ­rÃ¼k van. Csak azÃ©rt nem szerzik meg folyamatosan a hat tÃ¶rzs vezetÃ©sÃ©nek jogÃ¡t, mert megtanultÃ¡k a birodalomtÃ³l azt is, hogy hÃ¡ttÃ©rbÅ‘l kÃ¶nnyebb irÃ¡nyÃ­tani. RitkÃ¡n lÃ¡tni olyan barbÃ¡rt, aki sajÃ¡t Ã©s tÃ¶rzse cÃ©ljai Ã©rdekÃ©ben akarattal elveszÃ­ti a fontos kÃ¼zdelmet.
 
-### Erdõ Szelleme
-Nagyrészt a sámánok intellektuális irányítása jellemzi a törzset. Van törzsfõnök, de olyan nem fordulhat elõ, hogy nem kéri ki a sámánjai véleményét, olyan is ritkán, hogy megpróbál máshogy dönteni. Ilyen eseteknél eddig mindig kínos dolgok történtek…
+### ErdÅ‘ Szelleme
+NagyrÃ©szt a sÃ¡mÃ¡nok intellektuÃ¡lis irÃ¡nyÃ­tÃ¡sa jellemzi a tÃ¶rzset. Van tÃ¶rzsfÅ‘nÃ¶k, de olyan nem fordulhat elÅ‘, hogy nem kÃ©ri ki a sÃ¡mÃ¡njai vÃ©lemÃ©nyÃ©t, olyan is ritkÃ¡n, hogy megprÃ³bÃ¡l mÃ¡shogy dÃ¶nteni. Ilyen eseteknÃ©l eddig mindig kÃ­nos dolgok tÃ¶rtÃ©ntekâ€¦
 
-### Figyelõk
-Harcias törzs, akik Határváraddal majdnem folyamatosan csatároznak. Nagyon jó felderítõk, az érkezõ seregek eddig sohasem tudták õket meglepni. 
+### FigyelÅ‘k
+Harcias tÃ¶rzs, akik HatÃ¡rvÃ¡raddal majdnem folyamatosan csatÃ¡roznak. Nagyon jÃ³ felderÃ­tÅ‘k, az Ã©rkezÅ‘ seregek eddig sohasem tudtÃ¡k Å‘ket meglepni. 
