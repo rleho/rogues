@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+<title id="title">Terduuna domborzati térképe</title><desc id="desc">A Rogues világa fő kontinensének sematikus domborzati térképe. A hegyvidékek, erdők és éghajlati övek a leírásokból következtetett, közelítő elhelyezések.</desc>
+<defs>
+ <linearGradient id="sea" x2="0" y2="1"><stop stop-color="#dbe9e7"/><stop offset="1" stop-color="#b9d1d0"/></linearGradient>
+ <pattern id="forest" width="28" height="25" patternUnits="userSpaceOnUse"><path d="M7 21 14 5l7 16z" fill="#587859"/><path d="M14 14v8" stroke="#785d42" stroke-width="2"/></pattern>
+ <pattern id="scrub" width="22" height="20" patternUnits="userSpaceOnUse"><path d="M3 16q4-8 8 0m1 0q4-8 8 0" fill="none" stroke="#788351" stroke-width="2"/></pattern>
+ <pattern id="mountains" width="55" height="46" patternUnits="userSpaceOnUse"><path d="M2 39 18 8l17 31z" fill="#a79d86" stroke="#695e50" stroke-width="2"/><path d="m12 20 6-12 7 13-7-4z" fill="#f3efe0"/><path d="M32 40 44 17l10 23z" fill="#b9ad92" stroke="#746956" stroke-width="1.5"/></pattern>
+ <pattern id="swamp" width="34" height="22" patternUnits="userSpaceOnUse"><path d="M2 14q8-7 15 0t15 0M8 20q7-6 14 0" fill="none" stroke="#628b83" stroke-width="2"/></pattern>
+ <clipPath id="landClip"><path d="M354 105 C381 69 428 58 465 77 C500 52 535 78 565 108 C615 103 666 132 696 166 C743 186 773 229 778 273 C804 309 805 351 830 385 C849 414 834 439 798 460 C826 484 872 499 902 530 C944 555 989 576 1011 612 C1039 645 1014 670 973 686 C943 706 922 743 895 778 C865 814 821 821 789 804 C755 786 724 810 688 788 C652 768 623 747 612 709 C584 674 590 634 571 600 C550 562 533 531 508 495 C481 459 468 421 443 386 C420 352 412 310 389 276 C365 244 342 214 330 180 C327 148 336 121 354 105Z"/></clipPath>
+</defs>
+<rect width="1600" height="1100" fill="url(#sea)"/>
+<path d="M354 105 C381 69 428 58 465 77 C500 52 535 78 565 108 C615 103 666 132 696 166 C743 186 773 229 778 273 C804 309 805 351 830 385 C849 414 834 439 798 460 C826 484 872 499 902 530 C944 555 989 576 1011 612 C1039 645 1014 670 973 686 C943 706 922 743 895 778 C865 814 821 821 789 804 C755 786 724 810 688 788 C652 768 623 747 612 709 C584 674 590 634 571 600 C550 562 533 531 508 495 C481 459 468 421 443 386 C420 352 412 310 389 276 C365 244 342 214 330 180 C327 148 336 121 354 105Z" fill="#e4d5a9" stroke="#614f3c" stroke-width="5"/>
+<g clip-path="url(#landClip)">
+ <path d="M300 55H840V211Q740 243 690 211Q602 183 536 207Q425 231 300 193Z" fill="#e6e0b0"/>
+ <path d="M320 200Q475 244 570 218Q699 197 796 276L814 414Q699 435 615 396Q504 373 413 422L314 333Z" fill="#b3bf8c"/>
+ <path d="M330 312Q440 385 519 405Q606 431 671 425L814 443 770 555Q641 567 555 514Q444 495 366 464Z" fill="#c8c28f"/>
+ <path d="M484 465Q596 427 690 464Q772 481 858 536L1035 594 1046 719Q915 718 866 800Q742 829 653 761Q607 682 570 600Z" fill="#d3c38d"/>
+ <path d="M646 658Q708 636 779 668Q833 686 902 678Q893 771 838 830L699 816Q658 764 646 658Z" fill="#92a36c"/>
+ <path d="M345 100Q389 68 435 76L471 101 463 171Q407 197 348 164Z" fill="#d5d4aa"/>
+ <path d="M361 200Q450 220 511 251L535 326Q466 347 420 315Z" fill="url(#forest)" opacity=".9"/>
+ <path d="M535 277Q625 247 693 287L735 356Q688 404 612 383L540 351Z" fill="url(#forest)" opacity=".92"/>
+ <path d="M588 527Q654 489 712 525L759 596 732 672Q665 694 616 639Z" fill="url(#forest)" opacity=".88"/>
+ <path d="M754 675Q822 645 890 681L865 764Q823 792 774 774Z" fill="url(#forest)" opacity=".9"/>
+ <path d="M344 170Q374 250 449 308L489 391 555 458Q584 506 641 538L687 617Q703 682 772 728" fill="none" stroke="#8b7960" stroke-width="46" opacity=".68"/>
+ <path d="M344 170Q374 250 449 308L489 391 555 458Q584 506 641 538L687 617Q703 682 772 728" fill="url(#mountains)"/>
+ <path d="M660 201Q718 243 731 300L747 376" fill="none" stroke="#8f8066" stroke-width="24" opacity=".7"/>
+ <path d="M660 201Q718 243 731 300L747 376" fill="url(#mountains)"/>
+ <path d="M455 134Q472 202 526 238T573 321Q590 366 556 410T604 495Q655 541 622 585T669 682" fill="none" stroke="#729eaa" stroke-width="6"/>
+ <path d="M732 340Q700 381 681 423T693 500Q721 543 694 580" fill="none" stroke="#729eaa" stroke-width="5"/>
+ <path d="M784 561Q742 583 753 620T803 659Q823 684 806 710" fill="none" stroke="#729eaa" stroke-width="5"/>
+ <path d="M376 106Q417 147 465 172M477 225Q505 280 535 326M617 285Q650 316 682 350M615 542Q674 562 701 613M777 693Q825 705 866 735" fill="none" stroke="#f0e6bf" stroke-width="2" opacity=".85"/>
+</g>
+<g fill="#40565a" font-family="Georgia,serif" font-style="italic">
+ <text x="1120" y="317" font-size="30">A Birodalom</text><text x="1118" y="352" font-size="30">Óceánja</text>
+ <text x="90" y="490" font-size="30">Végtelen-</text><text x="90" y="526" font-size="30">Óceán</text>
+ <text x="360" y="55" font-size="22">ÉSZAKI-SARKI KÖR</text>
+</g>
+<g stroke="#53666a" stroke-width="2" stroke-dasharray="14 11" opacity=".75"><path d="M65 165H1300"/><path d="M65 492H1300"/><path d="M65 750H1300"/></g>
+<g fill="#53666a" font-family="Georgia,serif" font-size="20"><text x="1314" y="171">Sarkkör</text><text x="1314" y="498">Térítő</text><text x="1314" y="756">Egyenlítő</text></g>
+<g fill="#273d3c" font-family="Georgia,serif" font-weight="bold" text-anchor="middle">
+ <text x="518" y="277" font-size="28">Északi vadon</text>
+ <text x="570" y="438" font-size="24">A Beltenger</text>
+ <text x="801" y="620" font-size="34">Terduuna</text>
+ <text x="786" y="756" font-size="23">déli erdővidék</text>
+</g>
+<g transform="translate(1390 920)" fill="none" stroke="#34494a" stroke-width="4"><path d="M0 75V0l-15 25M0 0l15 25"/><path d="M-24 80H24M-18 90H18"/></g><text x="1390" y="1018" text-anchor="middle" fill="#34494a" font-family="Georgia,serif" font-size="20">É</text>
+<rect x="34" y="1003" width="330" height="46" rx="8" fill="#f7f1dd" stroke="#84775d"/><text x="52" y="1032" fill="#4c463a" font-family="Georgia,serif" font-size="18">Domborzat és éghajlat • sematikus térkép</text>
+<text x="800" y="1080" text-anchor="middle" fill="#435050" font-family="Georgia,serif" font-size="16">A leírásokból rekonstruált táj; a partvonal és az elhelyezések közelítőek, nem méretarányosak.</text>
+</svg>
