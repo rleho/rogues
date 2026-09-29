@@ -52,6 +52,8 @@
 
 [Országleírások](vilag/orszagok.md)
 
+[Városállamok és fiatal királyságok](vilag/kiralysag.md)
+
 [A Dzsa'reb Királyság](vilag/dzsareb.md)
 
 [A Barbárok](vilag/barbarok.md)
