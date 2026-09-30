@@ -21,8 +21,8 @@
  <path d="M535 277Q625 247 693 287L735 356Q688 404 612 383L540 351Z" fill="url(#forest)" opacity=".92"/>
  <path d="M588 527Q654 489 712 525L759 596 732 672Q665 694 616 639Z" fill="url(#forest)" opacity=".88"/>
  <path d="M754 675Q822 645 890 681L865 764Q823 792 774 774Z" fill="url(#forest)" opacity=".9"/>
- <path d="M344 170Q374 250 449 308L489 391 555 458Q584 506 641 538L687 617Q703 682 772 728" fill="none" stroke="#8b7960" stroke-width="46" opacity=".68"/>
- <path d="M344 170Q374 250 449 308L489 391 555 458Q584 506 641 538L687 617Q703 682 772 728" fill="url(#mountains)"/>
+ <path d="M345 150Q360 216 400 278T445 389Q460 445 505 494T555 584Q580 640 612 705T680 780" fill="none" stroke="#8b7960" stroke-width="46" opacity=".68"/>
+ <path d="M345 150Q360 216 400 278T445 389Q460 445 505 494T555 584Q580 640 612 705T680 780" fill="url(#mountains)"/>
  <path d="M660 201Q718 243 731 300L747 376" fill="none" stroke="#8f8066" stroke-width="24" opacity=".7"/>
  <path d="M660 201Q718 243 731 300L747 376" fill="url(#mountains)"/>
  <path d="M455 134Q472 202 526 238T573 321Q590 366 556 410T604 495Q655 541 622 585T669 682" fill="none" stroke="#729eaa" stroke-width="6"/>

@@ -14,4 +14,4 @@ A kontinensen két ősi, és több fiatal civilizáció harcol a hatalomért. El
 
 <a href="/kepek/terduuna-politikai.svg"><img src="/kepek/terduuna-politikai.svg" alt="Terduuna politikai térképe" style="max-width:100%;height:auto"></a>
 
-A térképek sematikusak: a domborzati elemek és a nagy politikai régiók elhelyezése a jelenlegi leírásokból következtetett. A pontos partvonalat, határokat és távolságokat a forrásanyag nem rögzíti.
+A térképek sematikusak: a domborzati elemek és a nagy politikai régiók elhelyezése a jelenlegi leírásokból következtetett. A pontos partvonalat, határokat és távolságokat a forrásanyag nem rögzíti. A rendelkezésre álló földrajzi adatok Terduunára korlátozódnak; bár az eldák egy másik kontinensről érkeztek, annak helyéről és alakjáról nincs térképi adat, ezért nem szerepel kitalált földrész a térképeken.
