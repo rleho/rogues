@@ -8,6 +8,6 @@ A kontinensen két ősi, és több fiatal civilizáció harcol a hatalomért. El
 
 ### Beltenger és Félsziget térkép
 
-<a href="/kepek/rogues3.jpg"><img src="/kepek/rogues3.jpg" alt="Terduuna domborzati térképe" style="max-width:100%;height:auto"></a>
+<a href="/kepek/rogues3.JPG"><img src="/kepek/rogues3.JPG" alt="Terduuna domborzati térképe" style="max-width:100%;height:auto"></a>
 
 
