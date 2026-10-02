@@ -10,7 +10,7 @@ Füvesvár nevét a körülötte elterülő nyílt, füves vidékről kapta. A v
 
 A döntéseket a polgárok választott képviselői hozzák, és a vezetőknek számot kell adniuk a város előtt. A helyi milícia az utak és a termőterületek védelmére szolgál; komolyabb fenyegetés esetén Füvesvár a szomszédos városállamokkal kötött megállapodásaira és a flottára támaszkodik.
 
-<a href="/kepek/rogues3.JPG"><img src="/kepek/rogues3.JPG" alt="Terduuna domborzati térképe" style="max-width:100%;height:auto"></a>
+<a href="/kepek/rogues1.JPG"><img src="/kepek/rogues1.JPG" alt="Terduuna domborzati térképe" style="max-width:100%;height:auto"></a>
 
 **Lazacpart – A halászok és hajósok köztársasága**
 
