@@ -18,6 +18,8 @@ Lazacpart tengerparti városállam, amelynek mindennapjait a halászat, a kiköt
 
 A városállam flottája a kereskedelmi útvonalak védelmére és a tengeri járőrözésre épül; szárazföldön nem tart fenn hasonló erejű hadsereget. A tenger felől érkező hírek és áruk miatt Lazacpart lakói különösen gyorsan értesülnek a környező országok változásairól.
 
+<a href="/kepek/rogues2.JPG"><img src="/kepek/rogues2.JPG" alt="Terduuna domborzati térképe" style="max-width:100%;height:auto"></a>
+
 **Szürkevár – A szövetségek városa**
 
 Szürkevár gazdag polgárai és élénk közélete révén a térség egyik legbefolyásosabb demokráciája. A vezetőket a polgárok választják, a kereskedők és a város különböző közösségei pedig a tanácsban igyekeznek érvényesíteni érdekeiket. A politikai alkuk és a szövetségek legalább olyan fontosak, mint a város saját fegyveres ereje.
