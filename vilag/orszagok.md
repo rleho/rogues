@@ -6,12 +6,8 @@ A fő kontinens, Terduuna északi és déli része élesen elkülönül egymást
 
 A kontinensen két ősi, és több fiatal civilizáció harcol a hatalomért. Elsőként a legősibb civilizációt, a Dzsa'reb Királyságot mutatjuk be.
 
-### Domborzati térkép
+### Beltenger és Félsziget térkép
 
-<a href="/kepek/terduuna-domborzati.svg"><img src="/kepek/terduuna-domborzati.svg" alt="Terduuna domborzati térképe" style="max-width:100%;height:auto"></a>
+<a href="/kepek/rogues3.jpg"><img src="/kepek/rogues3.jpg" alt="Terduuna domborzati térképe" style="max-width:100%;height:auto"></a>
 
-### Politikai térkép
 
-<a href="/kepek/terduuna-politikai.svg"><img src="/kepek/terduuna-politikai.svg" alt="Terduuna politikai térképe" style="max-width:100%;height:auto"></a>
-
-A térképek sematikusak: a domborzati elemek és a nagy politikai régiók elhelyezése a jelenlegi leírásokból következtetett. A pontos partvonalat, határokat és távolságokat a forrásanyag nem rögzíti. A rendelkezésre álló földrajzi adatok Terduunára korlátozódnak; bár az eldák egy másik kontinensről érkeztek, annak helyéről és alakjáról nincs térképi adat, ezért nem szerepel kitalált földrész a térképeken.
