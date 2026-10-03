@@ -10,7 +10,6 @@ Füvesvár nevét a körülötte elterülő nyílt, füves vidékről kapta. A v
 
 A döntéseket a polgárok választott képviselői hozzák, és a vezetőknek számot kell adniuk a város előtt. A helyi milícia az utak és a termőterületek védelmére szolgál; komolyabb fenyegetés esetén Füvesvár a szomszédos városállamokkal kötött megállapodásaira és a flottára támaszkodik.
 
-<a href="/kepek/rogues1.JPG"><img src="/kepek/rogues1.JPG" alt="Terduuna domborzati térképe" style="max-width:100%;height:auto"></a>
 
 **Lazacpart – A halászok és hajósok köztársasága**
 
@@ -18,9 +17,10 @@ Lazacpart tengerparti városállam, amelynek mindennapjait a halászat, a kiköt
 
 A városállam flottája a kereskedelmi útvonalak védelmére és a tengeri járőrözésre épül; szárazföldön nem tart fenn hasonló erejű hadsereget. A tenger felől érkező hírek és áruk miatt Lazacpart lakói különösen gyorsan értesülnek a környező országok változásairól.
 
-<a href="/kepek/rogues2.JPG"><img src="/kepek/rogues2.JPG" alt="Terduuna domborzati térképe" style="max-width:100%;height:auto"></a>
 
 **Szürkevár – A szövetségek városa**
+
+<a href="/kepek/rogues1.JPG"><img src="/kepek/rogues1.JPG" alt="Terduuna domborzati térképe" style="max-width:100%;height:auto"></a>
 
 Szürkevár gazdag polgárai és élénk közélete révén a térség egyik legbefolyásosabb demokráciája. A vezetőket a polgárok választják, a kereskedők és a város különböző közösségei pedig a tanácsban igyekeznek érvényesíteni érdekeiket. A politikai alkuk és a szövetségek legalább olyan fontosak, mint a város saját fegyveres ereje.
 
@@ -104,3 +104,5 @@ Vízvárad a legfiatalabb és legkisebb (~31 000 km²) állam a királyságok k�
 - **Mágia:** A mágiahasználat szabad, de a bürokrácia itt is lecsap rá: minden varázshasználónak kötelezően regisztrálnia kell magát a hatóságoknál, a mágia alkalmazását pedig szigorúan megadóztatják.
 - **Vallás:** Bár a vallásgyakorlás szabad, a társadalom 78%-a a Keleti Pantheon isteneit tiszteli, a maradékon osztoznak a Szürkevár felől érkező liberálisabb eszmék.
 - **A Főváros: Lathanpolisz:** A csatornákkal szabdalt, gátakkal védett város közvetlenül a lecsapolt területek szívében fekszik, és az alapító királyi családról kapta a nevét. Főként a mezőgazdasági javak elosztásából és a Szürkevár felé irányuló kereskedelemből él.
+
+<a href="/kepek/rogues2.JPG"><img src="/kepek/rogues2.JPG" alt="Terduuna domborzati térképe" style="max-width:100%;height:auto"></a>
