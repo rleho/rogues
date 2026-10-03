@@ -13,6 +13,8 @@ A döntéseket a polgárok választott képviselői hozzák, és a vezetőknek s
 
 **Lazacpart – A halászok és hajósok köztársasága**
 
+<a href="/kepek/rogues4.JPG"><img src="/kepek/rogues4.JPG" alt="Lazacpart térképe" style="max-width:100%;height:auto"></a>
+
 Lazacpart tengerparti városállam, amelynek mindennapjait a halászat, a kikötői kereskedelem és a hajózás határozza meg. A part menti települések fogásai és a távolabbról érkező áruk egyaránt a városi piacokra kerülnek. A kikötői céhek és a hajótulajdonosok jelentős befolyással bírnak, de a köztársaság fontos ügyeiben a polgárok képviselőinek is szavuk van.
 
 A városállam flottája a kereskedelmi útvonalak védelmére és a tengeri járőrözésre épül; szárazföldön nem tart fenn hasonló erejű hadsereget. A tenger felől érkező hírek és áruk miatt Lazacpart lakói különösen gyorsan értesülnek a környező országok változásairól.
@@ -20,7 +22,7 @@ A városállam flottája a kereskedelmi útvonalak védelmére és a tengeri já
 
 **Szürkevár – A szövetségek városa**
 
-<a href="/kepek/rogues1.JPG"><img src="/kepek/rogues1.JPG" alt="Terduuna domborzati térképe" style="max-width:100%;height:auto"></a>
+<a href="/kepek/rogues1.JPG"><img src="/kepek/rogues1.JPG" alt="Szürkevár térképe" style="max-width:100%;height:auto"></a>
 
 Szürkevár gazdag polgárai és élénk közélete révén a térség egyik legbefolyásosabb demokráciája. A vezetőket a polgárok választják, a kereskedők és a város különböző közösségei pedig a tanácsban igyekeznek érvényesíteni érdekeiket. A politikai alkuk és a szövetségek legalább olyan fontosak, mint a város saját fegyveres ereje.
 
@@ -98,6 +100,8 @@ Kövesvárad egy kicsi (~48 000 km²), de rendkívül értékes és veszélyes b
 
 **Vízvárad – A láposból emelt, jelentéktelen szövetséges**
 
+<a href="/kepek/rogues5.JPG"><img src="/kepek/rogues5.JPG" alt="Vízvárad térképe" style="max-width:100%;height:auto"></a>
+
 Vízvárad a legfiatalabb és legkisebb (~31 000 km²) állam a királyságok között, amelynek nagy része egy gigantikus mocsárvidék lecsapolásával jött létre. A területet egy Szürkevár nevű demokráciából származó, mérhetetlenül gazdag polgár vásárolta meg és csapoltatta le, majd a munka végeztével egyszerűen királynak nevezte ki magát. A mocsári iszap helyén maradt termékeny talajnak köszönhetően ma virágzó, bő termésű mezőgazdasággal rendelkezik.
 
 - **Kormányzat és katonaság:** A trónon az alapító Lathan-dinasztia ül. Katonaállamnak vagy gazdasági nagyhatalomnak nem nevezhető, a városállamok között politikai szempontból ez a legjelentéktelenebb királyság. Kis létszámú zsoldos sereget tartanak fenn, de az is szinte kizárólag belbiztonsági és rendfenntartási feladatokat lát el. Az állam túlélésének záloga az anyavárossal, Szürkevárral kötött rendíthetetlen, szoros katonai és gazdasági szövetségi rendszer.
@@ -105,4 +109,4 @@ Vízvárad a legfiatalabb és legkisebb (~31 000 km²) állam a királyságok k�
 - **Vallás:** Bár a vallásgyakorlás szabad, a társadalom 78%-a a Keleti Pantheon isteneit tiszteli, a maradékon osztoznak a Szürkevár felől érkező liberálisabb eszmék.
 - **A Főváros: Lathanpolisz:** A csatornákkal szabdalt, gátakkal védett város közvetlenül a lecsapolt területek szívében fekszik, és az alapító királyi családról kapta a nevét. Főként a mezőgazdasági javak elosztásából és a Szürkevár felé irányuló kereskedelemből él.
 
-<a href="/kepek/rogues2.JPG"><img src="/kepek/rogues2.JPG" alt="Terduuna domborzati térképe" style="max-width:100%;height:auto"></a>
+<a href="/kepek/rogues2.JPG"><img src="/kepek/rogues2.JPG" alt="Beltenger és a félsziget térképe" style="max-width:100%;height:auto"></a>
