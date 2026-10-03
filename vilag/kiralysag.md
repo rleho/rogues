@@ -26,6 +26,8 @@ A városállam flottája a kereskedelmi útvonalak védelmére és a tengeri já
 
 Szürkevár gazdag polgárai és élénk közélete révén a térség egyik legbefolyásosabb demokráciája, alkotmányos monarchia. A vezetőket a polgárok választják, a kereskedők és a város különböző közösségei pedig a tanácsban igyekeznek érvényesíteni érdekeiket. A politikai alkuk és a szövetségek legalább olyan fontosak, mint a városállam saját fegyveres ereje. A király pedig a hadsereg vezetője, ez az egy szerep, ami az általános királyi szerepek közt megmaradt.
 
+Szürkevárnak érdekes kapcsolata van a hittel, hisz szabad vallásgyakorlás van, persze a déli pantheon a legnagyobb, és legelterjedtemm, de szinte bármilyen hívővel össze lehet futni. A mágia gyakorlására is nagyon megengedő törvények születtek: minden mágiát lehet kutatni/tanulni, de használni csak olyat szabad, ami másnak nem okoz semmi általa nem elfogadott problémát/gondot. Több akadémia is működik az országban, természetesen fizetősek (igen jó vállalkozás tanítókat foglalkoztani az országban - nagyon sok külföldi, elnyomóbb országból származó diákot is fogadnak - pénzért). A leghíresebb akadémia, a már várossá bővült Jeges Szelek Akadémia, amit a hegyekben, a Vízvárad felé futókövesút mentén építettek fel.
+
 Szürkevár legfontosabb kapcsolata Vízváraddal különösen szoros: a fiatal királyság alapítója is szürkevári polgár volt, és Vízvárad fennmaradásának egyik biztosítéka a két állam katonai és gazdasági szövetsége. Emiatt Szürkevár befolyása jóval túlterjed a saját határain, miközben a szövetség fenntartása állandó diplomáciai feladatot jelent.
 
 ### Teokráciák
