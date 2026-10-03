@@ -24,7 +24,7 @@ A városállam flottája a kereskedelmi útvonalak védelmére és a tengeri já
 
 <a href="/kepek/rogues1.JPG"><img src="/kepek/rogues1.JPG" alt="Szürkevár térképe" style="max-width:100%;height:auto"></a>
 
-Szürkevár gazdag polgárai és élénk közélete révén a térség egyik legbefolyásosabb demokráciája. A vezetőket a polgárok választják, a kereskedők és a város különböző közösségei pedig a tanácsban igyekeznek érvényesíteni érdekeiket. A politikai alkuk és a szövetségek legalább olyan fontosak, mint a város saját fegyveres ereje.
+Szürkevár gazdag polgárai és élénk közélete révén a térség egyik legbefolyásosabb demokráciája, alkotmányos monarchia. A vezetőket a polgárok választják, a kereskedők és a város különböző közösségei pedig a tanácsban igyekeznek érvényesíteni érdekeiket. A politikai alkuk és a szövetségek legalább olyan fontosak, mint a városállam saját fegyveres ereje. A király pedig a hadsereg vezetője, ez az egy szerep, ami az általános királyi szerepek közt megmaradt.
 
 Szürkevár legfontosabb kapcsolata Vízváraddal különösen szoros: a fiatal királyság alapítója is szürkevári polgár volt, és Vízvárad fennmaradásának egyik biztosítéka a két állam katonai és gazdasági szövetsége. Emiatt Szürkevár befolyása jóval túlterjed a saját határain, miközben a szövetség fenntartása állandó diplomáciai feladatot jelent.
 
