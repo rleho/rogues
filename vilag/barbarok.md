@@ -8,11 +8,8 @@ A RogueS alapvetően az Elda Birodalomra épített játék, így a Birodalom sze
 
 #### Domborzati térkép
 
-<a href="/kepek/barbarvidek-domborzati.svg"><img src="/kepek/barbarvidek-domborzati.svg" alt="A barbár vidékek és a kisállamok domborzati térképe" style="max-width:100%;height:auto"></a>
+<a href="/kepek/rogues3.JPG"><img src="/kepek/rogues3.JPG" alt="A barbár vidékek és a kisállamok térképe" style="max-width:100%;height:auto"></a>
 
-#### Politikai és úthálózati térkép
-
-<a href="/kepek/barbarvidek-politikai.svg"><img src="/kepek/barbarvidek-politikai.svg" alt="A barbár vidékek és a kisállamok politikai és úthálózati térképe" style="max-width:100%;height:auto"></a>
 
 A két új térkép megtartja a régi számozást. A törzsi és állami határok, valamint a nagyobb úthálózat közelítő rekonstrukciók, mert a régi térkép és a leírások nem adnak meg pontos határvonalakat vagy koordinátákat.
 
