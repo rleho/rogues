@@ -90,6 +90,8 @@ Tengerfokvárad egy ~180 000 km²-es tengerparti állam, ahol a morált és a t�
 
 **Kövesvárad – A földalatti kohók és a vaskéz teokráciája**
 
+<a href="/kepek/rogues6.JPG"><img src="/kepek/rogues6.JPG" alt="Vízvárad térképe" style="max-width:100%;height:auto"></a>
+
 Kövesvárad egy kicsi (~48 000 km²), de rendkívül értékes és veszélyes bányászállam. Területének nagy része nehezen járható, lepusztult röghegység és sűrű erdőség, míg a szűk völgyekben és a havasi legelőkön minimális mezőgazdaság folyik. A zord terepviszonyok miatt külső ellenség képtelen nagy sereggel betörni az országba. Gazdagságát a föld mélyéből kinyert kincsek adják: drágakő, arany, vas, réz, ólom.
 
 - **Kormányzat és elnyomás:** A hatalom teljesen központosított, rideg és totalitárius. A király katonái az elfogadható minőségű úthálózaton és a településeken mindent és mindenkit állandóan ellenőriznek, a magánszféra fogalma ismeretlen.
